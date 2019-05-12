@@ -22,7 +22,7 @@ public class MainActivity extends AppCompatActivity {
         }
         else if (id == R.id.btnJsonObjectRequest)
         {
-           // startActivity(new Intent(MainActivity.this,JsonObjetc_Activity.class));
+           startActivity(new Intent(MainActivity.this,JsonObjetc_Activity.class));
         }
         else if (id == R.id.btnJsonArrayRequest)
         {
