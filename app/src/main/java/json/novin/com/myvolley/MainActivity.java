@@ -26,7 +26,7 @@ public class MainActivity extends AppCompatActivity {
         }
         else if (id == R.id.btnJsonArrayRequest)
         {
-          // startActivity(new Intent(MainActivity.this,JsonArray_aCTIVITY.class));
+          startActivity(new Intent(MainActivity.this,JsonArray_aCTIVITY.class));
         }
         else if (id == R.id.btnImageRequest)
         {

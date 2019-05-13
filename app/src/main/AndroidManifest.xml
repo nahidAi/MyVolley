@@ -19,7 +19,8 @@
             </intent-filter>
         </activity>
         <activity android:name=".StringRequest_Activity" />
-        <activity android:name=".JsonObjetc_Activity"></activity>
+        <activity android:name=".JsonObjetc_Activity" />
+        <activity android:name=".JsonArray_aCTIVITY"></activity>
     </application>
 
 </manifest>
